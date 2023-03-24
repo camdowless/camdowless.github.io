@@ -1,0 +1,66 @@
+- category: Activities
+  items:
+    - name: Skydiving
+      status: Not Started
+    - name: Land a Tre-Flip
+      status: I can kickflip
+    - name: Go Heli-Skiing
+      status: Not Started
+    - name: Run a Marathon
+      status: Not Started
+    - name: Learn an Instrument
+      status: Not Started
+    - name: Sub-10 Second 3x3 Rubik's Cube Average of 5
+      status: 18s Average
+    - name: Race a Formula Car
+      status: Not Started
+    - name: Start a Company
+      status: Not Started
+    - name: Write a Book
+      status: Not Started
+    - name: Learn to Juggle
+      status: Not Started
+    - name: Learn another Language
+      status: Not Started
+    - name: Get a Master's Degree
+      status: Not Started
+    - name: Tour a F1 Racing Team's Garage
+      status: Not Started
+    - name: Work as a Poker Dealer in a Casino
+      status: Not Started
+    - name: Work as a Ski Instructor
+      status: Not Started
+
+- category: Travel
+  items:
+    - name: Climb Mt. Killimanjaro
+      status: Not Started
+    - name: Visit all of the Continents
+      status: Not Started
+    - name: Live in another Country
+      status: Not Started
+    - name: Drive around the Nurburgring
+      status: Not Started
+    - name: Attend the F1 Monaco Grand Prix
+      status: Not Started
+    - name: Climb Half Dome
+      status: Planned for July 2023
+    - name: Go on a NYC Pizza Tour
+      status: Planned for October 2023
+    - name: Visit all of the US National Parks
+      status: 12/64
+    - name: Drink Vodka in Russia
+      status: Not Started
+    - name: Eat Sushi in Japan
+      status: Not Started
+    - name: Eat Pizza in Italy
+      status: Not Started
+
+- category: Food
+  items:
+    - name: Cook and eat a Japanese A5 Wagyu Steak
+      status: Complete
+    - name: Eat at a 1, 2, and 3 Michelin Star Restaurant
+      status: Not Started
+    - name: Catch and Cook a Lobster
+      status: Not Started

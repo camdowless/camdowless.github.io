@@ -1,0 +1,28 @@
+.bucketlist {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.list-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 80%;
+  margin-bottom: 1rem;
+}
+
+.status {
+  display: flex;
+  align-items: center;
+  font-weight: bold;
+  font-size: 0.9em;
+}
+
+.status-completed {
+  color: $forest-green;
+}
+
+.status-incomplete {
+  color: $deep-blue;
+}
